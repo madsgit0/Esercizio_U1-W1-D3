@@ -164,3 +164,16 @@ footer{
     text-align: center;
     padding: 20px;
 }
+
+footer p{
+    font-size: 16px;
+}
+
+footer kbd{
+    color: yellow;
+    font-weight: 600;
+}
+
+small{
+    color: #ffffff81;
+}
