@@ -1,6 +1,40 @@
 /* IMPOSTAZIONI GENERALI */
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+hr{
+    border: solid 4px;
+    border-color: #247794; 
+    margin: 0;
+}
 
 /* HEADER */
+header{
+    background-color: #33a0c6;
+    height: 280px;
+    width: 100vw;
+    text-align: center;
+}
+
+h1{
+    font-size: 35px;
+    text-transform: uppercase;
+    color: white;
+    line-height: 55px;
+    padding: 10%;
+}
+
+span{
+    color: #33a0c6;
+    background-color: white;
+}
+
+header h2{
+    font-size: 25px;
+    font-variant: small-caps;
+}
+
 
 /* MAIN */
 
