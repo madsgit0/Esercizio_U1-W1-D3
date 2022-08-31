@@ -42,6 +42,12 @@ main{
     padding: 0px 15px 0px 15px ;
 }
 
+main hr{
+    border: dashed 1px;
+    border-color: #2c2c2c; 
+    margin-top: 60px;
+}
+
 /* ELEMENTI NEL MAIN */
 
 div h2{
@@ -60,7 +66,7 @@ h3{
 }
 
 p{
-    font-size: 20px;
+    font-size: 22px;
     line-height: 30px;
 }
 b{
@@ -89,6 +95,27 @@ img{
 
 a{
     color: #c95865;
+}
+
+mark{
+    color: white;
+    background-color: #247794;
+}
+
+blockquote{
+    margin-top: 30px;
+    font-family: Helvetica, Arial, sans-serif;
+    padding: 35px;
+    text-align: center;
+    background-color: #e3e3e3;
+    border-radius: 20px;
+    font-style: italic;
+}
+
+blockquote p{
+    font-weight: 300;
+    letter-spacing: 0.5px;
+    font-size: 20px;
 }
 
 
